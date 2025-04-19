@@ -1,2 +1,2 @@
 # assignments-problem-challenge
-Assignments-challenge
+Assignments Challenge using Python
